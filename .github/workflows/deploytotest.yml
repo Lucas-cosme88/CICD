@@ -1,4 +1,4 @@
-name: Close Pull Request / Deploy to TEST instance
+name: Close Pull Request / Deploy to TEST instances
 
 # only trigger on pull request closed events
 on:
